@@ -1,0 +1,27 @@
+{
+  "name": "hapi-skeleton",
+  "version": "1.0.0",
+  "description": "Boilerplate for hapi.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranay92/hapi-skeleton.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "hapi"
+  ],
+  "author": "pranaydubey3009@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pranay92/hapi-skeleton/issues"
+  },
+  "homepage": "https://github.com/Pranay92/hapi-skeleton#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "hapi": "^11.1.4"
+  }
+}
