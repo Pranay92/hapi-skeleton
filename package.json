@@ -4,7 +4,7 @@
   "description": "Boilerplate for hapi.js applications.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall" : "npm --prefix=. link database/ modules/ utils/ bootstrap/"
   },
   "repository": {
     "type": "git",
